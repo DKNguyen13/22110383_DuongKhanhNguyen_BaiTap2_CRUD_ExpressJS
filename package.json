@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "mon cnpmm",
   "license": "ISC",
-  "author": "duy",
+  "author": "KhanhNguyen",
   "type": "module",
   "main": "index.js",
   "scripts": {
